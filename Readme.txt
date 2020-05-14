@@ -14,9 +14,9 @@ Use spacebar for shooting
 Use enter key for ray
 Use tab for starting / restarting a new game
 
-##Rules 
+## Rules 
 You'll lose a life if a bullet hits you or you touch the ground. The game will end if you have 0 life or 0 fuel.
 You'll get 50 points for standard fuel, 100 for pro fuel.
-You'll get 100 points for standard turret, 500 for pro.
+You'll get 100 points for standard turret, 500 for pro turret.
 You'll get 1000 points for destroying a planet.
 You'll get 10000 points for destroying a universe.
